@@ -1,0 +1,9 @@
+﻿,Respond YES,Respond No ,,prop hit =hit/hit+miss,0.926605505
+Signal Present,101,8,,prop fa = fa/fa+corr rejection,0.822580645
+Signal Absent,51,11, ,,
+,,,,,
+,,,,,
+,,,,,
+,,,,d-prime =z(prop hit) - z(prop fa),0.525722651
+,,,,,
+,,,,c= -z(prop hit) +z(prop fa)/2,-0.525722651
